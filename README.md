@@ -31,7 +31,3 @@
 |[우리 어디가](https://dandelion-echo-658.notion.site/d947e09b7aff4983a7ffded8d56ca7ed)|2023.03~2023.06|장소 랜덤 추천 앱|![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff) ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=java&logoColor=ffffff)|
 |직원 정보 관리|2022.12~2023.01|회사 직원 정보 관리 사이트| ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff) ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff) ![Java](https://img.shields.io/badge/-Java-F05032?style=for-the-badge&logo=java&logoColor=ffffff) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff)|
 
-### Currently in preparation
-- 정보처리산업기사 실기
-- sqld
-- aws
